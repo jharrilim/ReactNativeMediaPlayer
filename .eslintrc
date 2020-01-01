@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": "@react-native-community",
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "curly": [1, "multi-or-nest"],
+    "quotes": [2, "single"]
+  }
+}
